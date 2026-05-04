@@ -13,15 +13,7 @@ This repository contains a collection of firmware projects and peripheral exampl
 - **Library:** STM32Cube HAL (Hardware Abstraction Layer) or LL (Low-Layer)
 - **Toolchain:** GNU Arm Embedded Toolchain
 
-## 📂 Repository Structure
-Each folder represents a specific feature or peripheral:
-- `GPIO_Blinky/` - Simple LED toggle
-- `UART_Printf/` - Serial communication and retargeting printf
-- `ADC_DMA/` - Multi-channel analog to digital conversion using DMA
-- `I2C_OLED/` - Interfacing with an SSD1306 OLED display
-- `USB_Device_HID/` - Configuring the board as a Mouse/Keyboard
-
 ## 🚀 Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/STM32F411VET6_BlackPill.git
+   git clone https://github.com/Mooch3384/STM32F411VET6_BlackPill.git
